@@ -1,15 +1,18 @@
 /* Element styles */
 h2 {
     margin:0;
+    
 }
 ul{
     list-style-type: none;
     display:flex;
+    gap: 15px;
 
 }
 
 /* Class Styles*/
 .header {
     display:flex;
+    align-items: center;
 
 }
