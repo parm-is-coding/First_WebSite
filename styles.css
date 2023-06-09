@@ -4,7 +4,12 @@ h2 {
 }
 ul{
     list-style-type: none;
+    display:flex;
 
 }
 
 /* Class Styles*/
+.header {
+    display:flex;
+
+}
