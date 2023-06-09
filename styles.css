@@ -13,6 +13,8 @@ ul{
 /* Class Styles*/
 .top{
     background-color: #1F2937;
+    padding-left: 15%;
+    padding-right:15%;
 }
 .header {
     display:flex;
