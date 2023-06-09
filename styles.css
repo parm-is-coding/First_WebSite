@@ -11,8 +11,20 @@ ul{
 }
 
 /* Class Styles*/
+.top{
+    background-color: #1F2937;
+}
 .header {
     display:flex;
     align-items: center;
 
 }
+.logo {
+    margin-right: auto;
+}
+.logo,.hero{
+    color:#F9FAF8;
+    /* font-weight: extra-bold; */
+    /* font-family: Hero; */
+}
+
