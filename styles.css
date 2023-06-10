@@ -24,9 +24,24 @@ ul{
 .logo {
     margin-right: auto;
 }
-.logo,.hero{
-    color:#F9FAF8;
-    /* font-weight: extra-bold; */
-    /* font-family: Hero; */
+.links {
+
+
+}
+.hero {
+font-size: 48px;
+font-weight: bolder;
 }
 
+.logo, .hero {
+    color: #F9FAF8;
+    
+
+}
+
+.footer{
+
+}
+.footer,.hero{
+    background-color: #1F2937;
+}
