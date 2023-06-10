@@ -11,7 +11,7 @@ ul{
 }
 
 /* Class Styles*/
-.top{
+.headerContainer{
     background-color: #1F2937;
     padding-left: 15%;
     padding-right:15%;
@@ -31,6 +31,11 @@ ul{
 .hero {
 font-size: 48px;
 font-weight: bolder;
+
+}
+.logo, .header {
+    font-size: 24px;
+    
 }
 
 .logo, .hero, .header {
@@ -41,6 +46,7 @@ font-weight: bolder;
     font-size: 18px;
     color: #E5E7EB;
 }
+
 
 
 .footer{
