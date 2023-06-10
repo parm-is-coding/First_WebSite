@@ -1,5 +1,5 @@
 /* Element styles */
-h2 {
+h2, h1, p {
     margin:0;
     
 }
@@ -20,6 +20,7 @@ ul{
 }
 .heroContainer{
 display:flex;
+align-items: center;
 
 }
 .heroTextContainer{
