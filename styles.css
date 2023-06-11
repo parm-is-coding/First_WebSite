@@ -29,6 +29,7 @@ ul{
 }
 .heroContainer{
 display:flex;
+justify-content: space-between;
 align-items:flex-start;
 padding-top: 50px;
 padding-bottom: 50px;
