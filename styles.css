@@ -29,7 +29,9 @@ ul{
 }
 .heroContainer{
 display:flex;
-align-items: center;
+align-items:flex-start;
+padding-top: 50px;
+padding-bottom: 50px;
 
 }
 .heroTextContainer{
