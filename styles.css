@@ -1,6 +1,6 @@
 /* Element styles */
 * {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
 }
 h2, h1, p {
     margin:0;
