@@ -1,4 +1,7 @@
 /* Element styles */
+* {
+    font-family: Roboto;
+}
 h2, h1, p {
     margin:0;
     
