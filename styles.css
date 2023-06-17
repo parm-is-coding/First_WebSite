@@ -6,6 +6,9 @@ h2, h1, p {
     margin:0;
     
 }
+body{
+   
+}
 button {
     width: 100px;
     border-radius: 5px;
@@ -29,6 +32,8 @@ ul{
     background-color: #1F2937;
     padding-left: 15%;
     padding-right:15%;
+    margin: 0px;
+    border-radius: 0px;
 }
 .heroContainer{
 display:flex;
