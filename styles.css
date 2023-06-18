@@ -97,6 +97,8 @@ font-weight: bolder;
     display:flex;
     padding-left: 15%;
     padding-right:15%;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 
 /* Footer Classes */
