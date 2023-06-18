@@ -104,8 +104,12 @@ font-weight: bolder;
     justify-content: center;
 }
 .itemImage {
+    box-sizing: border-box;
     height:100px;
     width:100px;
+    border: 5px solid #3882F6;
+    border-radius: 25px;
+    
 }
 .itemText {
     text-align: center;
