@@ -104,7 +104,10 @@ font-weight: bolder;
     height:100px;
     width:100px;
 }
-
+.itemText {
+    text-align: center;
+    width:100px;
+}
 
 /* Footer Classes */
 .footer{
