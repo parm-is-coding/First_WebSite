@@ -134,8 +134,13 @@ font-weight: bolder;
     padding-top: 75px;  
     padding-bottom: 75px;  
     justify-content: center;
-
  } 
+ .quoteText {
+    font-size:36px;
+ }
+ .signText {
+    font-size:20px ;
+ }
 /* Footer Classes */
 .footer{
 
