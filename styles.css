@@ -123,7 +123,17 @@ font-weight: bolder;
     margin-right: auto;
     margin-left: auto;
 }
+ /* Lower Classes*/
+ .lowerContainer{
+    background-color: #E5E7EB;
+    display:flex;
+    padding-left: 15%;
+    padding-right:15%;
+    flex-direction: column;
+    
+    justify-content: center;
 
+ } 
 /* Footer Classes */
 .footer{
 
