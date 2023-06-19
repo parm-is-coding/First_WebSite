@@ -138,6 +138,7 @@ font-weight: bolder;
  .quoteText {
     font-size:36px;
     font-style: italic;
+    font-weight:250;
  }
  .signText {
     font-size:20px ;
