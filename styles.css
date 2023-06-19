@@ -141,6 +141,7 @@ font-weight: bolder;
  .signText {
     font-size:20px ;
     align-self: flex-end;
+    font-weight: bolder;
  }
 /* Footer Classes */
 .footer{
