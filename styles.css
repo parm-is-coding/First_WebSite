@@ -145,6 +145,13 @@ font-weight: bolder;
     align-self: flex-end;
     font-weight: bolder;
  }
+ /* Bottom Container Classes */
+ .bottomContainer{
+    padding-top:75px;
+    padding-bottom:75px;
+    padding-left: 15%;
+    padding-right:15%;    
+ }
 /* Footer Classes */
 .footer{
 
