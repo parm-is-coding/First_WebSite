@@ -159,11 +159,18 @@ font-weight: bolder;
     width:500px;
     display:flex;
     justify-content: center;
+    flex-wrap: wrap;
  }
  .callText {
     width:350px;
     font-size: 18px;
     color: #F9FAF8;
+ }
+ .callButton {
+    border: 2px solid #F9FAF8;
+    padding-left: 5px;
+    padding-right: 5px;
+    width:80px
  }
 /* Footer Classes */
 .footer{
