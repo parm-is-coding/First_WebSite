@@ -164,6 +164,8 @@ font-weight: bolder;
     flex-wrap: wrap;
     padding-top: 25px;
     padding-bottom: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
  }
  .callText {
     width:350px;
@@ -176,6 +178,7 @@ font-weight: bolder;
     padding-right: 5px;
     padding-bottom: 5px;
     width:80px
+
  }
 /* Footer Classes */
 .footer{
