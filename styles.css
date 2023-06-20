@@ -152,6 +152,13 @@ font-weight: bolder;
     padding-left: 15%;
     padding-right:15%;    
  }
+ .blueBox {
+    background-color: #3882F6;
+    border-radius: 5px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+ }
 /* Footer Classes */
 .footer{
 
