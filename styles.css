@@ -8,6 +8,7 @@ h2, h1, p {
 }
 body{
    margin:0px;
+   min-width: 1050px;
 }
 button {
     width: 100px;
