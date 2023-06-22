@@ -149,7 +149,7 @@ font-weight: bolder;
  /* Bottom Container Classes */
  .bottomContainer{
     display:flex;
-    justify-content: center;
+    justify-content: flex-start;
     padding-top:75px;
     padding-bottom:75px;
     padding-left: 15%;
