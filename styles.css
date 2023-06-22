@@ -186,7 +186,13 @@ font-weight: bolder;
  }
 /* Footer Classes */
 .footer{
-
+padding-top: 15px;
+padding-bottom: 15px;
+color: #F9FAF8;
+font-style: italic;
+font-weight: 300;
+display: flex;
+justify-content: center;
 }
 .footer,.hero{
     background-color: #1F2937;
